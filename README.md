@@ -16,7 +16,8 @@ During this project, we'll try to investigate this dataset and try to answer the
 We will use the dataset provided:  
 
 - **Chicago Food Inspections**
-The dataset's size is 220 MB. It has nearly 200K entries and 22 columns. They mainly consist of facility identification and localization and the inspection characteristics. This information is derived from inspections of restaurants and other food establishments in Chicago from January 1, 2010 to the present. A more detailed description can be found here: https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF
+
+o The dataset's size is 220 MB. It has nearly 200K entries and 22 columns. They mainly consist of facility identification and localization and the inspection characteristics. This information is derived from inspections of restaurants and other food establishments in Chicago from January 1, 2010 to the present. A more detailed description can be found here: https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF
 
 For further exploration, we will be looking at other datasets from the same source which is https://data.cityofchicago.org. These datasets are :
 
@@ -38,11 +39,27 @@ o Link to DB: https://data.cityofchicago.org/Community-Economic-Development/Busi
 
 - **Crimes: 2001 to present**
 
- Description: This dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present, minus the most recent seven days. Data is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system.
+o Description: This dataset reflects reported incidents of crime (with the exception of murders where data exists for each victim) that occurred in the City of Chicago from 2001 to present, minus the most recent seven days. Data is extracted from the Chicago Police Department's CLEAR (Citizen Law Enforcement Analysis and Reporting) system.
  
 o The datasets size is 1.7GB. It has nearly 7M entries and 30 columns. First, we will focus on the subset starting from year 2010, which has 4M entries to study its evolution in correlation with the food inspections to see whether locations with a high rate of crime tend to have more code violating facilities. Then we will do further exploration by linking these records to the main DB to see what kind of other crimes are happening in these facilities for example.
 
 o Link to DB: https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-present/ijzp-q8t2/data
+
+
+- **Selected socioeconomic indicators in Chicago, 2008 – 2012**
+
+o This dataset contains a selection of six socioeconomic indicators of public health
+significance and a “hardship index,” by Chicago community area, for the years 2008 – 2012. The
+indicators are the percent of occupied housing units with more than one person per room (i.e.,
+crowded housing); the percent of households living below the federal poverty level; the percent of
+persons aged 16 years or older in the labor force that are unemployed; the percent of persons aged 25
+years or older without a high school diploma; the percent of the population under 18 or over 64 years
+of age (i.e., dependency); and per capita income. 
+
+o Link to DB : https://data.cityofchicago.org/Health-Human-Services/Census-Data-Selected-socioeconomic-indicators-in-C/kn9c-c2s2
+
+
+
 
 
 
