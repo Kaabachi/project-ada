@@ -1,11 +1,14 @@
-# Title
+# Slicing the deep dish pizza:    Exploring social determinism in food inspection
 
 # Abstract
-In 2000, Enron was one of the largest companies in the United States. Its stock kept soaring higher and higher day by day. By 2002, it had collapsed into bankruptcy due to widespread corporate fraud. In the resulting Federal investigation, a significant amount of typically confidential information entered into the public record, including around 500.000 emails and detailed financial data for top executives.
 
-Getting access to an email database without violating user privacy is close to impossible. The fall of Enron gave us the opportunity to dive into the detailed analysis of emails and how people use them.
+ Although it may not be as viral as other current issues, food safety remains a sensitive subject that is taken very seriously by the public authority. Indeed, each year  roughly 1 in 6 Americans (48 million people) get food poisoning, resulting in 128’000 hospitalizations and 3’000 deaths (CDC). This phenomenon is even worse in urban areas.  
 
-During this project, we'll try to investigate this dataset and try to answer the research questions we came up with below.
+To prevent the deterioration of this situation, the Chicago Department of Public Health’s Food Protection Program uses a standardized procedure to ensure that  food preparation in every food establishment across the city meets the health code criteria.   
+
+ Through the inspection of the data and it’s analysis we would like to highlight tthe epidemic’s main causes and to clarify the underlying interaction of biological and social factors by further exploring the correlation between the violations and the socioeconomic indicators surrounding them .
+
+Strengthened by this knowledge and motivated by improving food inspections we will ultimately propose a higher resolution model for detecting health issues that not only enhances the general customers health but also to reduce food facilities’ costs in fines.
 
 # Research questions
 - Social Bias : Can we find a correlation between higher income areas and failure to comply to food inspections ?
