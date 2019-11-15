@@ -1,10 +1,5 @@
-# Slicing the deep dish pizza:   Using social media in accordance to Chicago's open data to protect consumers from food based illness. Exploring social determinism in food inspection 
 
-Mixing social media with food inspection to protect consumers from food based illnesses
-
-Is the customer always right ? Leveraging the relationship between food inspections and social media
-
-Combining Social media and public services to improve prevention of foodborne illnesses.
+#Combining Social media and public services to improve prevention of foodborne illnesses.
 
 # Abstract
 
