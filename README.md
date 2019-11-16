@@ -73,7 +73,7 @@ Explore the possibility of applying sentiment analysis on review content.
 
 Explore the relationship between words in review, for example see that "poisoning" mostly comes with other words in order to construct a dictionary that describes food poisoning.
 
-Is it possible to match the outbreak cases with the reviews and explore the possibility of discovering new restaurants affected by the epidemia ? Study the feasability of such study.
+Is it possible to match the outbreak cases with the reviews and explore the possibility of discovering new restaurants affected by the epidemia ? Study the feasability of such approach.
 
 Try to detect unreported outbreaks.
 
