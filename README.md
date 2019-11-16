@@ -3,7 +3,7 @@
 
 # Abstract
 
-Food safety is a sensitive subject that is taken very seriously by the public authority. Indeed, each year  roughly 1 among 6 Americans (48 million people) gets food poisoning, resulting in 128’000 hospitalizations and 3’000 deaths (https://www.cdc.gov/foodborneburden/2011-foodborne-estimates.html?fbclid=IwAR3BqyBvIe03qtiJKLqrh7wnprI_5oiUdwbVFyEe4s2_N4Tq9ulsjysQT20). This phenomenon is even worse in urban areas, and one of those affected is the city of Chicago.  
+Food safety is a sensitive subject that is taken very seriously by the public authority. Indeed, each year  roughly 1 among 6 Americans (48 million people) gets food poisoning, resulting in 128’000 hospitalizations and 3’000 deaths [CDC](https://www.cdc.gov/foodborneburden/2011-foodborne-estimates.html?fbclid=IwAR3BqyBvIe03qtiJKLqrh7wnprI_5oiUdwbVFyEe4s2_N4Tq9ulsjysQT20). This phenomenon is even worse in urban areas, and one of those affected is the city of Chicago.  
 
 To prevent the deterioration of this situation, the Chicago Department of Public Health’s Food Protection Program uses a standardized procedure to ensure that food preparation in every food establishment across the city meets the health code criteria. This work is summed up in a dataset made publicly available and updated on a daily basis by the city of Chicago. 
 
