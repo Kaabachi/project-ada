@@ -36,19 +36,19 @@ We will use the dataset provided:
 
 - **Yelp**
 
-o This dataset is a subset of Yelp's businesses, reviews, and user data. It was originally put together for the Yelp Dataset Challenge which is a chance for students to conduct research or analysis on Yelp's data and share their discoveries. In the dataset there is information about businesses across 11 metropolitan areas in four countries.  A more detailed description can be found here :https://www.kaggle.com/yelp-dataset/yelp-dataset/data#
+    - This dataset is a subset of Yelp's businesses, reviews, and user data. It was originally put together for the Yelp Dataset Challenge which is a chance for students to conduct research or analysis on Yelp's data and share their discoveries. In the dataset there is information about businesses across 11 metropolitan areas in four countries.  A more detailed description can be found here :https://www.kaggle.com/yelp-dataset/yelp-dataset/data#
 
-o The datasets size is 8 GB. 5,200,000 user reviews. Information on 174,000 businesses. The data spans 11 metropolitan areas.
+    - The datasets size is 8 GB. 5,200,000 user reviews. Information on 174,000 businesses. The data spans 11 metropolitan areas.
 
-o Link to DB: https://www.kaggle.com/yelp-dataset/yelp-dataset/data#
+    - Link to DB: https://www.kaggle.com/yelp-dataset/yelp-dataset/data#
 
 - **Business Licenses**
 
-o Description: Business licenses issued by the Department of Business Affairs and Consumer Protection in the City of Chicago from 2002 to the present.
+    - Description: Business licenses issued by the Department of Business Affairs and Consumer Protection in the City of Chicago from 2002 to the present.
 
-o The datasets size is 328 MB. It has nearly 1M entries and 34 columns. We aim to join this DB to the main DB to have a more detailed understanding about each facility characteristics.
+    - The datasets size is 328 MB. It has nearly 1M entries and 34 columns. We aim to join this DB to the main DB to have a more detailed understanding about each facility characteristics.
 
-o Link to DB: https://data.cityofchicago.org/Community-Economic-Development/Business-Licenses/r5kz-chrr/data
+    - Link to DB: https://data.cityofchicago.org/Community-Economic-Development/Business-Licenses/r5kz-chrr/data
 
 
 # Planning
