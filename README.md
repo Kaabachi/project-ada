@@ -10,7 +10,7 @@ To prevent the deterioration of this situation, the Chicago Department of Public
 As mentionned in the [Chicago Tribune](https://www.chicagotribune.com/opinion/editorials/ct-inspect-food-safety-edit-20161209-story.html?fbclid=IwAR3csHYii5Zx0DWaztytqWG2RCZgXvwntuXKV1bmhECrz1r_G2oZRUJdqEQ) :
 - "The Chicago Department of Public Health requires "high risk" food establishments, such as restaurants, school and hospital kitchens and day care centers to be inspected twice a year. In 2015, fewer than half of them got two inspections, city Inspector General Joseph Ferguson recently reported. Grocery stores are supposed to get an annual inspection, but nearly 1 in 5 were not visited by sanitarians last year. Bars and convenience stores are supposed to be inspected once every two years, but fewer than 1 in 4 got a visit from inspectors in 2014 and 2015."
 
-However as highlighted by the [Chicago Tribune] and due to the sheer number of food based establishments compared to the food inspection staff, the city's department of public health struggles to detect and deal with establishments that don't respect certain hygiene standards. 
+However as highlighted in the same article and due to the sheer number of food based establishments compared to the food inspection staff, the city's department of public health struggles to detect and deal with establishments that don't respect certain hygiene standards. 
 
 Social sources such as Yelp provide a new view of what’s happening that would not have been detected through official channels. Indeed, when you get food borne illness you usually don't go through the hassle of filing a formal claim but you share it on social networks. 
 
