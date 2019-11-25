@@ -53,13 +53,18 @@ First step : Meeting the TAs to validate the README changes, discuss the propose
 
 Second step : Group meeting to divide the work between the two datasets.
 
-Third step : Data collection
+Third step : Data collection.
 
 Fourth step : Data cleaning, how to deal with missing values.
 
-TODO dataviz
+Fifth step : Data Munging and data visualization on each dataset per group of two.
 
-Fourth step : Data exploration :
+Sixth step : Narrow the questions and propose a summary of the following steps.
+
+Mileestone 2. 
+
+Seventh step : Data exploration.
+
 
 - Yelp dataset :
 
