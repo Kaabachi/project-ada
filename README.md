@@ -24,8 +24,7 @@ Strengthened by this knowledge and motivated by improving food inspections we wi
 
 - Are food chains in different areas more prone to food inspections failure than the same food chains in other areas ?
 - Can we assess how real Chicago Tribune's critics are ?
-- Do chicago restaurants that fail city inspections have lower ratings and negative reviews ?
-- Can foodborne illness be detected in Yelp reviews ?
+- Do chicago restaurants that fail city inspections have low ratings and negative reviews ?
 - Does food inspection have a direct impact on Yelp reviews ? i.e are reviews more positive just after an inspection ?
 
 
