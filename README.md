@@ -63,7 +63,9 @@ Sixth step : Narrow the questions and propose a summary of the following steps.
 
 Mileestone 2. 
 
-Seventh step : Data exploration.
+Seventh step : Data exploration and data transformation.
+
+Eighth step : Answering the questions and thinking on the poster.
 
 
 - Yelp dataset :
