@@ -22,12 +22,12 @@ Strengthened by this knowledge and motivated by improving food inspections we wi
 
 # Research questions
 
+- Are food chains in different areas more prone to food inspections failure than the same food chains in other areas ?
+- Can we assess how real the critics that have been made in the Chicago Tribune's article are ? 
 - Is it possible to predict the results of food inspections by analyzing the yelp reviews of said establishments ?
 - Do chicago restaurants that fail city inspections have lower ratings?
 - Does food inspection have a direct impact on Yelp reviews ? i.e are reviews more positive just after an inspection?
-- Based on Chicago Tribune's article in 2016 did the food inspection improve ?
 - Can foodborne illness be detected in Yelp reviews ?
-- Are food chains in different areas more prone to food inspections failure than the same food chains in other areas ?
 
 # Dataset
 
@@ -43,15 +43,7 @@ We will use the dataset provided:
 
     - The datasets size is 8 GB. 5,200,000 user reviews. Information on 174,000 businesses. The data spans 11 metropolitan areas.
 
-    - [Link to DB](https://www.kaggle.com/yelp-dataset/yelp-dataset/data#)
-
-- **Business Licenses**
-
-    - Description: Business licenses issued by the Department of Business Affairs and Consumer Protection in the City of Chicago from 2002 to the present.
-
-    - The datasets size is 328 MB. It has nearly 1M entries and 34 columns. We aim to join this DB to the main DB to have a more detailed understanding about each facility characteristics.
-
-    - [Link to DB](https://data.cityofchicago.org/Community-Economic-Development/Business-Licenses/r5kz-chrr/data)
+    - Webscraping
 
 
 # Planning
