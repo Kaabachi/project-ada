@@ -80,7 +80,7 @@ Seventh step : Data exploration and data transformation.
 
 Eighth step : Answering the questions and thinking on the poster.
 
-See the section Plan Forward for more technical details to answer the research questions.
+See the section Plan Forward of the notebook for more technical details to answer the research questions.
 
 # Questions for TAa
 
