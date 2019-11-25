@@ -23,11 +23,11 @@ Strengthened by this knowledge and motivated by improving food inspections we wi
 # Research questions
 
 - Are food chains in different areas more prone to food inspections failure than the same food chains in other areas ?
-- Can we assess how real Chicago Tribune's critics are ? 
-- Is it possible to predict the results of food inspections by analyzing the yelp reviews of said establishments ?
-- Do chicago restaurants that fail city inspections have lower ratings?
-- Does food inspection have a direct impact on Yelp reviews ? i.e are reviews more positive just after an inspection?
+- Can we assess how real Chicago Tribune's critics are ?
+- Do chicago restaurants that fail city inspections have lower ratings and negative reviews ?
 - Can foodborne illness be detected in Yelp reviews ?
+- Does food inspection have a direct impact on Yelp reviews ? i.e are reviews more positive just after an inspection ?
+
 
 # Dataset
 
@@ -41,11 +41,24 @@ We will use the dataset provided:
 
 - **Yelp**
 
-    - This dataset is a subset of Yelp's businesses, reviews, and user data. It was originally put together for the Yelp Dataset Challenge which is a chance for students to conduct research or analysis on Yelp's data and share their discoveries. In the dataset there is information about businesses across 11 metropolitan areas in four countries.  A more detailed description can be found [here](https://www.kaggle.com/yelp-dataset/yelp-dataset/data#)
+    - [Yelp](https://www.google.com) is a business directory service and crowd-sourced review forum, it focuses on publishing crowd-sourced reviews about businesses. 
 
-    - The datasets size is 8 GB. 5,200,000 user reviews. Information on 174,000 businesses. The data spans 11 metropolitan areas.
+    - To leverage useful data from the Yelp website, we use a combination of [Yelp's API - Yelp Fusion](https://www.yelp.com/fusion) and web scraping in order to get the reviews of the restaurants in Chicago that have been labeled with " food poisoning " during food inspections.
+    
+    - Here is a brief description in each column of the restaurants dataset :
 
-    - Webscraping
+| Name           | Type   | Description                                                              |
+|----------------|--------|--------------------------------------------------------------------------|
+| Address        | String | Address of the establishment according to our food inspection dataset    |
+| Lincense #     | int    | License number of the establishment according to food inspection dataset |
+| Name           | String | Name of the establishment                                                |
+| alias          | String | Unique Yelp alias of this business.                                      |
+| id             | String | Unique Yelp id of this business                                          |
+| is_closed      | bool   | Wether the business has been (permanently) closed                        |
+| overall_rating | float  | Rating for this business (value ranges from 1, 1.5, ... 4.5, 5).         |
+| price          | string | Price level of the business. Value is one of `$` , `$$`, `$$$`,  `$$$$`  |
+| review_count   | int    | Number of reviews for this business.                                     |
+
 
 
 # Planning
