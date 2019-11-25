@@ -36,6 +36,7 @@ We will use the dataset provided:
 - **Chicago Food Inspections**
 
     - The dataset's size is 220 MB. It has nearly 200K entries and 22 columns. They mainly consist of facility identification and localization and the inspection characteristics. This information is derived from inspections of restaurants and other food establishments in Chicago from January 1, 2010 to the present. A more detailed description can be found [here](https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF)
+    -To map using folium we collect the zip code boundaries GeoJson file at https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-ZIP-Codes/gdcf-axmw
 
 - **Yelp**
 
