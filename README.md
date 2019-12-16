@@ -80,30 +80,7 @@ Seventh step : Data exploration and data transformation.
 
 Eighth step : Answering the questions and thinking on the poster.
 
-
-- Yelp dataset :
-
-Leverage natural language processing tools to model the reviews to get a clear view for further use of the data.
-
-Explore the possibility of applying sentiment analysis on review content.
-
-Explore the relationship between words in review, for example see that "poisoning" mostly comes with other words in order to construct a dictionary that describes food poisoning.
-
-Is it possible to match the outbreak cases with the reviews and explore the possibility of discovering new restaurants affected by the epidemia ? Study the feasability of such approach.
-
-Try to detect unreported outbreaks.
-
-- Food poisoning dataset : 
-
-High level analysis of all information we have about restaurants and other food facilities in the database: 
-
-Explore facility types, and get their distribution over state/city/ward features. 
-
-Inspect the features community types and census tracts, and it's influence on facility types.
-
-How dates are distributed ? how an inspection date is set up: periodically or depending on factors related to the                 facility ?
-
-Explore the results of inspections, and related violations if there is.
+See the section Plan Forward of the notebook for more technical details to answer the research questions.
 
 # Questions for TAa
 
