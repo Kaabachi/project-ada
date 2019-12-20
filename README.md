@@ -38,7 +38,7 @@ We will use the dataset provided:
 
     - The dataset's size is 220 MB. It has nearly 200K entries and 22 columns. They mainly consist of facility identification and localization and the inspection characteristics. This information is derived from inspections of restaurants and other food establishments in Chicago from January 1, 2010 to the present. A more detailed description can be found [here](https://data.cityofchicago.org/api/assets/BAD5301B-681A-4202-9D25-51B2CAE672FF)
     
-    -To map using folium we collect the zip code boundaries GeoJson [file] (https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-ZIP-Codes/gdcf-axmw)
+    - To map using folium we collect the zip code boundaries GeoJson [file] (https://data.cityofchicago.org/Facilities-Geographic-Boundaries/Boundaries-ZIP-Codes/gdcf-axmw)
 
 - **Yelp**
 
@@ -98,6 +98,9 @@ For this part we also worked on our website which can be found here :
 **Contribution of each member**
 
 Aymen Ayadi :Plotting graphs during data analysis, web crawling, NLP and text analysis, Yelp reviews, Data collection and organizing meetings.
+
 Haithem Hammami :Prepping up visualizations, answering research questions, coming up with algorithms, working on food inspections, creating interactive plots.
+
 Ridha Chahed: Running tests, tabulating final results, working on food inspections, prepping up visualizations, answering research questions.
+
 Bayrem Kaabachi: Writing up the report or the data story, preparing the final presentation, creating the website, collecting/working on Yelp data.
