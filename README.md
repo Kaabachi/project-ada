@@ -82,6 +82,20 @@ Eighth step : Answering the questions and thinking on the poster.
 
 See the section Plan Forward of the notebook for more technical details to answer the research questions.
 
-# Questions for TAa
+Milestone 3.
 
-Add here some questions you have for us, in general or project-specific.
+For this milestone we tried to find an answer to the concerns raised in the Milestone 2 review. 
+
+We started by collecting data for a broader range of restaurants to generalize our claims and to get meaningful comparisons.
+
+We also focused more on the analysis part while creating our data story. We chose the plots that are significant enough to be included in the data story then we tried to make them more interactive and easier on the eyes.
+
+For this part we also worked on our website which can be found here :
+
+
+**Contribution of each member**
+
+Aymen Ayadi :Plotting graphs during data analysis, web crawling, NLP and text analysis, Yelp reviews, Data collection and organizing meetings.
+Haithem Hammami :Prepping up visualizations, answering research questions, coming up with algorithms, working on food inspections, creating interactive plots.
+Ridha Chahed: Running tests, tabulating final results, working on food inspections, prepping up visualizations, answering research questions.
+Bayrem Kaabachi: Writing up the report or the data story, preparing the final presentation, creating the website, collecting/working on Yelp data.
