@@ -1,6 +1,8 @@
 
 # Combining Social media and public services to improve prevention of foodborne illnesses.
 
+Link to our website : https://kaabachi.github.io/project-ada/data/2019/12/18/page.html
+
 # Abstract
 
 Food safety is a sensitive subject that is taken very seriously by the public authority. Indeed, each year  roughly 1 among 6 Americans (48 million people) gets food poisoning, resulting in 128’000 hospitalizations and 3’000 deaths ([CDC](https://www.cdc.gov/foodborneburden/2011-foodborne-estimates.html?fbclid=IwAR3BqyBvIe03qtiJKLqrh7wnprI_5oiUdwbVFyEe4s2_N4Tq9ulsjysQT20)). This phenomenon is even worse in urban areas, and one of those affected is the city of Chicago.  
